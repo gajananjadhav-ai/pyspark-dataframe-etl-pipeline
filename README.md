@@ -399,7 +399,7 @@ pytest tests/test_transform.py
 
 ---
 
-## Interview Preparation Topics Covered
+## Topics Covered
 
 PySpark Core:
 
