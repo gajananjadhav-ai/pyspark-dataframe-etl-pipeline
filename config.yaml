@@ -1,0 +1,12 @@
+spark:
+  app_name: "Assignment5_PySpark_ETL"
+  executor_memory: "4g"
+  shuffle_partitions: 200
+
+paths:
+  input_parquet: "data/yellow_tripdata_2023-01.parquet"
+  output_csv: "output/yellow_csv"
+  output_delta: "output/delta_trips"
+  output_final: "output/final_trips"
+  stream_input: "data/stream"
+  checkpoint_path: "output/checkpoints"
