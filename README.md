@@ -1,4 +1,4 @@
-# Assignment 5 – PySpark DataFrame APIs (Programmatic Approach)
+# PySpark DataFrame APIs (Programmatic Approach)
 
 ## Project Overview
 
