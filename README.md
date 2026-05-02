@@ -80,7 +80,7 @@ This project covers:
 * Apache Spark 3.5.7
 * PySpark
 * Delta Lake
-* PostgreSQL
+* MySQL
 * Pandas
 * YAML
 * Pytest
