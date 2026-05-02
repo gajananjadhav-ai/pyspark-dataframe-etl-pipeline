@@ -76,8 +76,8 @@ This project covers:
 
 ## Tech Stack
 
-* Python 3.10
-* Apache Spark 3.5.7
+* Python
+* Apache Spark
 * PySpark
 * Delta Lake
 * MySQL
