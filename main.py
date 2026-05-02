@@ -51,10 +51,6 @@ print(spark)
 file_path = r"C:\Users\admin\OneDrive\Desktop\Gajanan\PYSPARK DATAFRAME APIs_ASSN 2\assignment5_pyspark\data\yellow_tripdata_2023-01.parquet"
 
 
-# ------------------------------
-# Batch Pipeline (Q1–Q28)
-# ------------------------------
-
 df = load_parquet(spark, file_path)
 
 df.printSchema()
@@ -242,10 +238,6 @@ print("Second run time:", second_run)
 write_delta(df)
 print("Delta write completed")
 
-
-# ------------------------------
-# Modular ETL + Streaming (Q29 + Q30)
-# ------------------------------
 
 def main():
     # Batch ETL
