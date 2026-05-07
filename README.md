@@ -1,4 +1,4 @@
-# PySpark DataFrame APIs (Programmatic Approach)
+# pyspark-dataframe-etl-pipeline
 
 ## Project Overview
 
@@ -90,7 +90,8 @@ This project covers:
 ## Project Structure
 
 ```text
-assignment5_pyspark/
+pyspark-dataframe-etl-pipeline
+/
 │   config.yaml
 │   main.py
 │   README.md
