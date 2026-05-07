@@ -90,8 +90,7 @@ This project covers:
 ## Project Structure
 
 ```text
-pyspark-dataframe-etl-pipeline
-/
+pyspark-dataframe-etl-pipeline/
 │   config.yaml
 │   main.py
 │   README.md
